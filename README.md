@@ -3,12 +3,12 @@
 
 Last updated: May 2026
 
-Welcome to Rubix.
+Welcome to Fruzzle.
 This Privacy Policy explains how we collect, use, and protect user information when you use our game.
 
 1. Information We Collect
 
-Rubix may collect limited information automatically, including:
+Fruzzle may collect limited information automatically, including:
 
 Device information (device model, operating system version)
 Game progress and gameplay statistics
@@ -26,7 +26,7 @@ unless explicitly provided by the user through external services.
 
 2. Advertising
 
-Rubix may display advertisements provided by third-party ad networks such as:
+Fruzzle may display advertisements provided by third-party ad networks such as:
 
 Google AdMob
 
@@ -38,13 +38,12 @@ We may use analytics and crash reporting tools to improve gameplay experience, p
 
 Collected data may include:
 
-Session duration
 Device type
 Crash logs
-Gameplay interactions
+
 4. Children’s Privacy
 
-Rubix is not directed specifically to children under 13.
+Fruzzle is not directed specifically to children under 13.
 
 If you believe a child has provided personal information, please contact us and we will take appropriate action.
 
@@ -56,7 +55,7 @@ However, no method of electronic storage or transmission over the Internet is co
 
 6. Third-Party Services
 
-Rubix may use third-party services including:
+Fruzzle may use third-party services including:
 
 Google Play Services
 Google AdMob
